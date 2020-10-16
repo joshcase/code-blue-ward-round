@@ -31,5 +31,5 @@
 
 ## Where you can find me
 
-[🐦nbsp;Twitter](https://twitter.com/_JoshCase) - DMs/Tweets welcome
-[✉️nbsp;Join my mailing list](http://eepurl.com/gWD3Z1) - For news about my books, programming tutorials, projects, and special offers.
+[🐦&nbsp;Twitter](https://twitter.com/_JoshCase) - DMs/Tweets welcome
+[✉️&nbsp;Join my mailing list](http://eepurl.com/gWD3Z1) - For news about my books, programming tutorials, projects, and special offers.
