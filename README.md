@@ -10,7 +10,7 @@
 
 📁 &nbsp;All the projects in *Code Blue* contain multiple folders. The folder **final** contains the completed project, whereas any folder prefixed with **milestone** indicates some partially completed stage of the build. Feel free to review these as you follow along, to ensure your project is coming along as expected. 
 
-‼️&nbsp;If you've got questions or problems, feel free to post them in the [Issues](https://github.com/joshcase/code-blue-pneumonia/issues) tab.
+‼️&nbsp;If you've got questions or problems, feel free to post them in the [Issues](https://github.com/joshcase/code-blue-ward-round/issues) tab.
 
 ✅ &nbsp;Pull requests welcome.
 
