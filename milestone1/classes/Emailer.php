@@ -15,7 +15,9 @@
 		    $mail->Port       = 587;
 
 		    $mail->setFrom(MAIL_FROM_ADDRESS, MAIL_FROM_NAME);
-		    $mail->addAddress($to, '');
+		    foreach ($to as $toAddress) {
+		    	$mail->addAddress($toAddress, ''); 
+		    }
 
 		    $mail->addAttachment($filename);
 
